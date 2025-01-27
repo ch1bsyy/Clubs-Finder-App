@@ -1,7 +1,7 @@
 # 🏟️ Sport Club Finder
 
 Selamat datang di __Sport Club Finder! ⚽__ <br>
-Aplikasi ini memudahkan Anda untuk mencari dan menemukan informasi lengkap tentang klub olahraga favorit Anda dengan cepat dan efisien.
+Ini merupakan tugas latihan selama saya mengikuti Studi Independen bersama Dicoding Indonesia. Aplikasi ini memudahkan Anda untuk mencari dan menemukan informasi lengkap tentang klub olahraga favorit Anda dengan cepat dan efisien.
 
 ## 🌟 Fitur Utama
 __1. Pencarian Sport Club__
